@@ -1,0 +1,5 @@
+spleeter：基于 Tensorflow 实现的音轨分离工具。可以用于提取音乐中的人声、鼓、钢琴等乐器
+https://github.com/deezer/spleeter
+# 提取人声
+spleeter separate -p spleeter:2stems -o output 音频.mp3
+

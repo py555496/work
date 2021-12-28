@@ -1,0 +1,2 @@
+rumps：简单的 macOS 状态栏 Python 库
+python3 -m pip install rumps

@@ -1,0 +1,2 @@
+pottery：以 Python 的方式操作 Redis 的库。忘记那些 Redis 命令吧，只要你知道如何使用 Python 字典，那么你就会用这个库操作 Redis
+https://github.com/brainix/pottery
